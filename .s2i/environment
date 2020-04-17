@@ -1,0 +1,2 @@
+APP_CONFIG=gucconfig.py
+APP_MODULE=wsgi:app

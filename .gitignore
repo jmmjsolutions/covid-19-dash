@@ -117,6 +117,7 @@ venv.bak/
 venv.win10/
 
 # VS Code
+.vscode/
 settings.json
 
 # Spyder project settings
